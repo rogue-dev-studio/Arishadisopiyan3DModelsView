@@ -2785,7 +2785,7 @@ var fs = require('fs');
  * unsuitable for browser usage. In order to make it smaller, 
  * we read dictionary.bin, which is a compressed version of
  * the dictionary, and on initial load, Brotli decompresses 
- * it's own dictionary. 😜
+ * it's own dictionary. 
  */
 exports.init = function() {
   var BrotliDecompressBuffer = require('./decode').BrotliDecompressBuffer;

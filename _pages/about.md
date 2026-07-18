@@ -47,7 +47,7 @@ Okay, I don't want to reveal anything confidential about my life here, but here 
 Smartbear TestComplete, Photobook, VS Test
 
 ## 3D CAD
-- Software : OnShape ❤️, Solidworks, CAD Processor, Unity, Blender
+- Software : OnShape , Solidworks, CAD Processor, Unity, Blender
 - Machining : Ultimaker (2, 3, 5S), build my own 3D printer Prusa Mendel i3, Repetier, milling
 
 ## Hardware
